@@ -1,4 +1,4 @@
-const http = require('http'); //no video do alemão esta como express, porém no do Masseranto esta como http (working) 
+const http = require('http');
 const app = require('./app');
 
 const port = process.env.PORT || 1000;
